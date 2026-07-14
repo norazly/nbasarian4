@@ -1,0 +1,1 @@
+Replace placeholder text and images, then upload to GitHub Pages.
